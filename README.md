@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiuliaGenco
 - 👀 I’m a Cinema and Media Engineering Student
-- 🌱 I’m currently learning different programming language like C, SQL, Java, JavaScript, HTML/CSS
+- 🌱 I’m currently learning different programming languages like C, SQL, Java, JavaScript, HTML/CSS
 - 💞️ I hope you enjoy the projects I created
 
 
